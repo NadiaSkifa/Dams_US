@@ -7,3 +7,6 @@ reduction. In this context, this project aims to delve into the spatial dynamics
 USA.
 
 The main objective of this investigation is to answer the following research question: What are the spatial distribution patterns of dams in the USA? And how different approaches to defining spatial relationships can influence the assessment of spatial autocorrelation and subsequent spatial analysis outcomes?
+
+![Dams_US](dams_reservoirs_usa.png)
+
